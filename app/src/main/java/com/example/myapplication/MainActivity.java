@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+	    //陈法地sb
         setContentView(R.layout.activity_main);
 		//信息嘻嘻嘻嘻嘻嘻爱
 		//电饭锅和金额？
