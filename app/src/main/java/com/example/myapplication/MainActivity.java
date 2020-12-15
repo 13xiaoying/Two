@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 		//信息嘻嘻嘻嘻嘻嘻爱
 		//电饭锅和金额
+//qwdiaowidjawidj1
     }
 }
