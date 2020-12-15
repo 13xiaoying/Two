@@ -17,4 +17,7 @@ public class MainActivity extends AppCompatActivity {
 		//电饭锅和金额
 //qwdiaowidjawidj1
     }
+	public void onData(){
+		
+	}
 }
