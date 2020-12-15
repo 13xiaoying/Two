@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 		//电饭锅和金额？
 		//US应该还好		
 		//越高好借好还
-		
+		//电饭锅和金额
+//qwdiaowidjawidj1
     }
 }
